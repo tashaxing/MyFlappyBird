@@ -1,4 +1,4 @@
-MyFlappyBIrd
+MyFlappyBird
 ============
 
 My flappybird demo,code is easy to understand<br/>
